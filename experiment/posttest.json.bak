@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A pipe of diameter 466 mm carries water at 25 m/s. The pressure at point A and B are 28 N/cm2 and 23 N/cm2 respectively. Find the loss of head between A and B. Datum line passes through point A.",
+      "qid": 1,
+      "option_a": "4.3",
+      "option_b": "2.8",
+      "option_c": "2.2",
+      "option_d": "3.1",
+      "correct_option": "d"
+   },
+   {
+      "question": "A pipe of diameter 358 mm carries water at 27 m/s. The pressure at point A and B are 28 N/cm2 and 20 N/cm2 respectively. Find the loss of head between A and B. Datum line passes through point A.",
+      "qid": 2,
+      "option_a": "5.3",
+      "option_b": "6.2",
+      "option_c": "7.6",
+      "option_d": "4.1",
+      "correct_option": "b"
+   }
+]
